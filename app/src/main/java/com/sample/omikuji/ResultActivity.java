@@ -20,6 +20,7 @@ public class ResultActivity extends AppCompatActivity {
         setContentView(R.layout.activity_result);
 
         doOmikuji();
+        //
     }
 
     private void doOmikuji() {
